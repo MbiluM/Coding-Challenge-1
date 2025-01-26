@@ -1,0 +1,5 @@
+{
+let customersName = "Mbilu Mabilu"
+let welcomeMessage = "Hello " + customerName + " , welcome to our platform"
+console.log(welcomeMessage)
+}

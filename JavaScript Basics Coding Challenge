@@ -15,3 +15,21 @@ console.log("Product Name:", productName, "| Type:", typeof productName)
 console.log("Product Price:", productPrice, "| Type:" typeof productPrice)
 console.log("Is Available:", isAvailable, "| Type", typeof isAvailable)
 }
+
+{
+let accountBalance = 1000.00
+accountBalance += 500
+console.log("After Deposit:", accountBalance)
+accountBalance -= 200
+console.log("after Withdrawal:", accountBalance)
+accountBalance *= 1.05
+console.log("After Interest:", accountBalance
+accountBalance /= 2
+console.log("After Splitting:", accountBalance)
+}
+
+{
+let customersName = "Mbilu Mabilu"
+let welcomeMessage = "Hello " + customerName + " , welcome to our platform"
+console.log(welcomeMessage)
+}

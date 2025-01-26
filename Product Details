@@ -1,0 +1,9 @@
+
+{
+let productName = "Bust Down Jet Black Wig"
+const productPrice = 250.00
+var isAvailable = true
+console.log("Product Name:", productName, "| Type:", typeof productName)
+console.log("Product Price:", productPrice, "| Type:" typeof productPrice)
+console.log("Is Available:", isAvailable, "| Type", typeof isAvailable)
+}

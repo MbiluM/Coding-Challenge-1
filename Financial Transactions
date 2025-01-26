@@ -1,0 +1,12 @@
+
+{
+let accountBalance = 1000.00
+accountBalance += 500
+console.log("After Deposit:", accountBalance)
+accountBalance -= 200
+console.log("after Withdrawal:", accountBalance)
+accountBalance *= 1.05
+console.log("After Interest:", accountBalance
+accountBalance /= 2
+console.log("After Splitting:", accountBalance)
+}
