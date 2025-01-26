@@ -1,6 +1,17 @@
+{
 let employeeName = "Mbilu Mabilu"
 const employeeID = 44391
 var isActive = true
 console.log("Employee Name:", employeeName, "| Type:", typeof employeeName)
 console.log("Employee ID:", employeeID, "| Type:", typeof employeeID)
 console .log("Is Active:", isActive, "| Type", typeof isActive)
+}
+
+{
+let productName = "Bust Down Jet Black Wig"
+const productPrice = 250.00
+var isAvailable = true
+console.log("Product Name:", productName, "| Type:", typeof productName)
+console.log("Product Price:", productPrice, "| Type:" typeof productPrice)
+console.log("Is Available:", isAvailable, "| Type", typeof isAvailable)
+}
